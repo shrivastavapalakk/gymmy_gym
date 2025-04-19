@@ -41,31 +41,7 @@ _The id and password for all types of users are_ **user1** _and_ **pass1**. _Thi
 ![Screenshot of Password Change](https://user-images.githubusercontent.com/46554662/64921352-f9cab100-d7df-11e9-8cb0-f8a44d8c505a.png "Change Password")
 ![Screenshot of SignOut Message](https://user-images.githubusercontent.com/46554662/64921353-f9cab100-d7df-11e9-93cf-0c63d9f6c3ed.png "SignOut Message")
 
-# Contact
-mailto:  ***a.081005@gmail.com***
 
-# License
-MIT License
-
-Copyright (c) 2019 Animesh Sharma
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 
 
